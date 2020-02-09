@@ -41,6 +41,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [IQM](https://github.com/excessive/iqm-exm) - Inter-Quake Model loader (binary)
 * [Lovox](https://github.com/tjakka5/Lovox) - Pseudo-3D library for working with voxels
 * [ss3d](https://github.com/groverburger/ss3d) - a simple and easy 3d engine for love2d
+* [love-gltf](https://gitlab.com/Alloyed/love-gltf) - gltf asset loader and test renderer. Supports skeletal animations and morph targets
 
 
 ## AI
@@ -270,6 +271,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [SafeWord](https://github.com/josefnpat/safeword) - An overscan detection library for LÖVE
 * [SUIT](https://github.com/vrld/SUIT) - small immediate mode GUI library
 * [ListBox](https://github.com/darkmetalic/ListBox) - A dynamic ListBox for LÖVE that supports touch, mouse, and keyboard inputs
+* [Hanker](https://gitlab.com/Alloyed/hanker) - Maximalist immediate mode-ish UI elements. 
 
 ## Utilities
 *Non-Game specific libraries and tools*
@@ -296,6 +298,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [splashy](https://github.com/videah/splashy) - Splash Screen Library
 * [ShakeDetectorLua](https://github.com/azoyan/ShakeDetectorLua) - uses accelerometer data for shake device detection written in Lua
 * [tick](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop
+* [nativefiledialog](https://github.com/Alloyed/nativefiledialog/tree/master/lua) - Open a file picker on Windows/Mac/Linux
 
 ## Tutorials
 *Blogs and tutorials*
